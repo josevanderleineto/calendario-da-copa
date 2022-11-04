@@ -4,7 +4,7 @@
 
 Trilha Explorer
 
-Projeto construído do evento NLW copa da  dada Rocketseat.
+Projeto construído do evento NLW copa da  Rocketseat.
 
 [ Clique aqui para acessar](https://josevanderleineto.github.io/calendario-da-copa/)
 
