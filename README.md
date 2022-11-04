@@ -1,10 +1,10 @@
-# NLW eSports
+# NLW copa
 
 ![preview](/assets/capa.svg)
 
 Trilha Explorer
 
-Projeto construído do evento Next Level Week da Rocketseat.
+Projeto construído do evento NLW copa da  dada Rocketseat.
 
 [ Clique aqui para acessar](https://josevanderleineto.github.io/calendario-da-copa/)
 
@@ -12,6 +12,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 - HTML
 - CSS
+- JavaScript 
 - Git e Github
 
 ## Contato
